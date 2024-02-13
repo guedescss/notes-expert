@@ -16,7 +16,7 @@
 
 <p align="center">
  <a href="#started">Getting Started</a> • 
- <a href="#colab">Collaborators</a> •
+ <a href="#colab">Collaborators</a> 
 </p>
 
 <p align="center">
