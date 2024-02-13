@@ -35,7 +35,7 @@
 
 Here you describe how to run your project locally
 
-<h3>☁️ Deploy online</h3>
+<h2>☁️ Deploy online</h2>
 https://lnkd.in/d96fYiHj
 
 <h3>Prerequisites</h3>
