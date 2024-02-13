@@ -36,7 +36,7 @@
 Here you describe how to run your project locally
 
 <h2>☁️ Deploy online</h2>
-https://lnkd.in/d96fYiHj
+https://notes-expert-ten.vercel.app/
 
 <h3>Prerequisites</h3>
 
