@@ -29,9 +29,14 @@
     <img src="https://i.imgur.com/y86peiL.png" alt="Image Example" width="400px">
 </p>
 
+
+
 <h2 id="started">🚀 Getting started</h2>
 
 Here you describe how to run your project locally
+
+<h3>☁️ Deploy online</h3>
+https://lnkd.in/d96fYiHj
 
 <h3>Prerequisites</h3>
 
