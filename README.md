@@ -9,7 +9,7 @@
 <h1 align="center" style="font-weight: bold;">Notes 📝🚀 </h1>
 
 ![react][REACT_BADGE]
-![vite][VITE_BADGE]
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![tailwindcss][TAILWINDCSS_BADGE]
 ![typescript][TYPESCRIPT_BADGE]
 
